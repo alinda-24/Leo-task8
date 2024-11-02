@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-97h2pc0RZ5PUaEivpUiojP0w.png?st=2024-11-02T11%3A18%3A18Z&se=2024-11-02T13%3A18%3A18Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-02T02%3A18%3A57Z&ske=2024-11-03T02%3A18%3A57Z&sks=b&skv=2024-08-04&sig=OVm%2B9hpN%2BsYrK9v%2BHOzsOJaNImx8IYKiC1vPCOCwFlk%3D)
+
 ## Programming Task: Matrix Multiplication Adventure 🧮✨
 
 In this task, you will embark on an adventure to create a program that performs matrix multiplication. You’ll begin by delving into theoretical concepts, then gradually design and implement a Java application that reads matrix data from files, leverages class designs, and incorporates creative programming strategies. You will apply object-oriented principles and get creative with your solutions, experiencing the beauty and challenge of programming.
