@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-U7VrpnufFNGBiD9y8tFB2bUC.png?st=2024-11-05T07%3A21%3A17Z&se=2024-11-05T09%3A21%3A17Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-04T20%3A03%3A40Z&ske=2024-11-05T20%3A03%3A40Z&sks=b&skv=2024-08-04&sig=0CS99uFmADOLdt1NDSN0exB8XZt230QrJZ2%2BV7ET/RM%3D)
+
 ## 🎮 Simple Game Application Task
 
 Welcome to a challenging yet exciting task where you will design and implement a simple game application. This project will not only test your Java programming skills but also your understanding of key programming concepts such as class design, file I/O, and creative coding practices. Get ready for an adventure as you create a game with player movement, scoring, and enemy interactions!
