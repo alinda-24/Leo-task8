@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-b8RY7hUtreZW1UzkkjoEAq3b.png?st=2024-11-05T07%3A27%3A54Z&se=2024-11-05T09%3A27%3A54Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T01%3A51%3A47Z&ske=2024-11-06T01%3A51%3A47Z&sks=b&skv=2024-08-04&sig=mgMdpui3OfINo5CSI/RWjIQw0tm4PnAuaHqmh/ndCGo%3D)
+
 # 🎮 Simple Game Application Development Task
 
 In this task, we'll develop a simple game application that includes player movement, scoring systems, and interactions with enemies. The task is designed to improve your understanding of using data from files to instantiate objects, designing classes, and programming creatively. The exercises are structured to progress from theoretical understanding to practical coding applications, culminating in a creative game project.
