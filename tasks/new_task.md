@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-A9IQJvCtjH2SL6YpunFaW31l.png?st=2024-11-07T22%3A26%3A05Z&se=2024-11-08T00%3A26%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-07T19%3A49%3A47Z&ske=2024-11-08T19%3A49%3A47Z&sks=b&skv=2024-08-04&sig=CoSJmLJLcjDGlSzVOzB7Yx8WJJVyyEKhmUGD3AjLYuU%3D)
+
 Here's a detailed task description for creating a simple game application with player movement, scoring, and enemy interactions. This task will guide students through using data from files, designing classes, and programming creatively.
 
 ---
