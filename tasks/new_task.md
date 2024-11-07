@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-IYlxzCoLOhawZeUrkkTxZwZa.png?st=2024-11-07T20%3A02%3A44Z&se=2024-11-07T22%3A02%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-06T21%3A17%3A56Z&ske=2024-11-07T21%3A17%3A56Z&sks=b&skv=2024-08-04&sig=e1IOb8EroWtYV8pwJxUT6a6S4VcXm3VR3/2wcVCU0Ao%3D)
+
 ### 🕹️ Simple Game Development Task: Create Your Interactive Adventure!
 
 Welcome to your programming task, where you will embrace both the art and science of creating a dynamic game application. You will embody the spirit of a game developer by designing a simple yet engaging interactive experience. Your creation will culminate in a game that includes player movement, scoring systems, and enemy interactions. Let’s dive into the captivating world of game development with our structured exercises!
